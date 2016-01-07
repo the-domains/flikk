@@ -1,0 +1,28 @@
+name: flikk
+favicon: null
+layout_spectrum: 0.6570606774184853
+typography_spectrum: 0.4813249127473682
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4028092287480831
+  lightness: 0.5262626854237169
+  saturation: 0.4681642863433808
+  rhythmicContrast: 0.7413606750778854
+purpose: []
